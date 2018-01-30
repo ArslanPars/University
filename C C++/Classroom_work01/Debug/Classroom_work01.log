@@ -1,0 +1,3 @@
+﻿  Classroom_work01.cpp
+d:\работы\программирование\university\university\c c++\classroom_work01\classroom_work01.cpp(26): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Classroom_work01.vcxproj -> D:\Работы\Программирование\University\University\C C++\Debug\Classroom_work01.exe
