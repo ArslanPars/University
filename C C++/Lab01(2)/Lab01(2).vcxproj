@@ -20,9 +20,9 @@
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>15.0</VCProjectVersion>
-    <ProjectGuid>{2B5A5196-12B6-4323-BEDA-CF8D5F0D17D8}</ProjectGuid>
+    <ProjectGuid>{D62E0654-CC8A-466C-9E3D-0B3CD6562EB1}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
-    <RootNamespace>CC</RootNamespace>
+    <RootNamespace>Lab012</RootNamespace>
     <WindowsTargetPlatformVersion>10.0.16299.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -151,7 +151,7 @@
     <ClInclude Include="targetver.h" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="C C++.cpp" />
+    <ClCompile Include="Lab01(2).cpp" />
     <ClCompile Include="stdafx.cpp">
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">Create</PrecompiledHeader>
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">Create</PrecompiledHeader>
